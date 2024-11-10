@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(219, 184, 150);
+  }
+
+  h1{ text-align: center;
+    font-style: italic;
+  }  
+
+u{color: #1a5e52;}
+
+article{ text-align: right;
+  margin-top: -52%;
+}
+header{text-align: left;
+}
+   img{
+     width: 150px; 
+    height: 260px;
+}
+
+  
