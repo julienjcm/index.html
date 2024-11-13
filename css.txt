@@ -13,7 +13,7 @@ body {
   justify-content: center;  
   padding: 20px;
 }
-/* Conteneur principal */
+
 header, article {
   width: 800px;
   background: #fff;
@@ -23,54 +23,9 @@ header, article {
   border-radius: 8px;
 }
 
-header {
-  text-align: center;
-}
 
-header h1 {
-  font-size: 1.8em;
-  color: #003366; /* Bleu marine */
-  margin-bottom: 10px;
-}
-
-header img {
+ img {
   width: 170px;
-  border-radius: 20%;
   margin: -20px 0 20px;
-  border: 3px solid #003366;
 }
 
-h2 {
-  color: #333;
-  font-size: 1.3em;
-  margin: 20px 0 10px;
-  border-bottom: 2px solid #003366;
-  padding-bottom: 5px;
-}
-
-a {
-  color: #1a73e8;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-p {
-  margin: 10px 0;
-}
-
-.date, .skills p, .interests p {
-  font-weight: bold;
-  color: #555;
-}
-
-.skills p, .interests p {
-  display: inline-block;
-  margin-right: 10px;
-}
-
-p u {
-  color: #003366;
-}

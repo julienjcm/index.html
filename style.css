@@ -1,13 +1,7 @@
-/* Style global */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f5;
-  color: #333;
+  background-color: #fafafa;
+  color: #3e3e3e;
   line-height: 1.6;
   display: flex;
   justify-content: center;  
@@ -16,7 +10,7 @@ body {
 
 header, article {
   width: 800px;
-  background: #fff;
+  background: #ffffff;
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
