@@ -1,25 +1,23 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #fafafa;
-  color: #3e3e3e;
-  line-height: 1.6;
-  display: flex;
-  justify-content: center;  
-  padding: 20px;
+  font-family: Arial, sans-serif; /* Définit la police de caractère de la page */
+  background-color: #fafafa; /* Définit la couleur de fond de la page */
+  color: #3e3e3e; /* Définit la couleur du texte */
+  line-height: 1.6; /* Définit l'interligne (espace entre les lignes de texte) */
+  display: flex; /* Utilise le modèle de mise en page flexbox pour disposer les éléments */
+  justify-content: center; /* Centre les éléments enfants horizontalement */
+  padding: 20px; /* Ajoute un espace intérieur autour du contenu */
 }
 
 header, article {
-  width: 800px;
-  background: #ffffff;
-  padding: 20px;
-  margin-bottom: 20px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;
+  width: 800px; /* Définit la largeur des sections header et article */
+  background: #ffffff; /* Définit la couleur de fond de ces sections */
+  padding: 20px; /* Ajoute un espace intérieur autour du contenu de ces sections */
+  margin-bottom: 20px; /* Ajoute un espace en dessous de ces sections */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ajoute une ombre subtile autour des sections */
+  border-radius: 8px; /* Arrondit les coins des sections */
 }
 
-
- img {
-  width: 170px;
-  margin: -20px 0 20px;
+img {
+  width: 170px; /* Définit la largeur des images */
+  margin: -20px 0 20px; /* Ajoute un espacement au-dessus et en dessous de l'image, et remonte l'image de 20px */
 }
-
